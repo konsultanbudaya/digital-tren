@@ -1,0 +1,48 @@
+{
+  "usage": {
+    "labels": [
+      "TikTok",
+      "YouTube",
+      "Instagram",
+      "WhatsApp"
+    ],
+    "datasets": [
+      {
+        "label": "Rata-rata Waktu (menit/hari)",
+        "data": [
+          92,
+          74,
+          57,
+          134
+        ],
+        "backgroundColor": [
+          "#4c51bf",
+          "#4299e1",
+          "#ed64a6",
+          "#48bb78"
+        ]
+      }
+    ]
+  },
+  "trends": {
+    "labels": [
+      "Hiburan",
+      "Edukasi",
+      "Budaya Kerja",
+      "Pelatihan ASN"
+    ],
+    "datasets": [
+      {
+        "label": "Engagement Index",
+        "data": [
+          85,
+          70,
+          90,
+          65
+        ],
+        "borderColor": "#3182ce",
+        "backgroundColor": "rgba(49,130,206,0.2)"
+      }
+    ]
+  }
+}
